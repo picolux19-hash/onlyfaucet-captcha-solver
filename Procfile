@@ -1,1 +1,1 @@
-worker: python faucet.py
+web: python app.py
